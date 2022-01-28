@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PuzzleJavascript(1)", "G:\Users\Roger\Source\Repos\PuzzleJavascript\", "{14656C69-814C-4748-B79E-F0F17BF76FC8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61515"
+		Debug.AspNetCompiler.PhysicalPath = "G:\Users\Roger\Source\Repos\PuzzleJavascript\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61515\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61515"
+		Release.AspNetCompiler.PhysicalPath = "G:\Users\Roger\Source\Repos\PuzzleJavascript\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61515\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61515"
+		SlnRelativePath = "G:\Users\Roger\Source\Repos\PuzzleJavascript\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14656C69-814C-4748-B79E-F0F17BF76FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14656C69-814C-4748-B79E-F0F17BF76FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD947C43-44F4-413D-BA66-71EB0AE8B4F9}
+	EndGlobalSection
+EndGlobal
